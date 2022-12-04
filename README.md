@@ -1,2 +1,2 @@
-# FSJS2.0-Articles
+# FSJS 2.0-Articles
 FSJS2.0 All Articles
