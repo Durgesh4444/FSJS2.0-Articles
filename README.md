@@ -3,22 +3,25 @@
 ## 1. Article on Web server And HTML Element
 [Link](https://durgesh04.hashnode.dev/introduction-to-webhtml)
 
-## 2. Article on CSS Selectors
+## 2. Article on HTML Elements
+[Link](https://hashnode.com/drafts)
+
+## 3. Article on CSS Selectors
 
 [Link](https://durgesh04.hashnode.dev/css-selector)
 
-## 3. Article on CSS Positions
+## 4. Article on CSS Positions
 
 [Link](https://durgesh04.hashnode.dev/css-positions)
 
-## 4. Article on CSS Flexbox
+## 5. Article on CSS Flexbox
 
 [Link](https://durgesh04.hashnode.dev/css-flexbox)
 
-## 5. Article on CSS Box Model
+## 6. Article on CSS Box Model
 
 [Link](https://durgesh04.hashnode.dev/css-box-model)
 
-## 6. Articles on CSS Media Queries
+## 7. Articles on CSS Media Queries
 
 [Link](https://durgesh04.hashnode.dev/css-media-queries)
