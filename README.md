@@ -22,6 +22,6 @@
 
 [Link](https://durgesh04.hashnode.dev/css-box-model)
 
-## 7. Articles on CSS Media Queries
+## 7. Articles on CSS Media Query
 
 [Link](https://durgesh04.hashnode.dev/css-media-queries)
