@@ -27,4 +27,4 @@
 [Link](https://durgesh04.hashnode.dev/css-media-queries)
 
 ## 8. Articles on Array methods in javascript
-[Link}(https://durgesh04.hashnode.dev/array-methods-in-javascript)
+[Link](https://durgesh04.hashnode.dev/array-methods-in-javascript)
